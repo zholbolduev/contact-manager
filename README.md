@@ -1,35 +1,19 @@
-# .
+# Contact-Manager 🌳
 
-This template should help get you started developing with Vue 3 in Vite.
+## Overview
 
-## Recommended IDE Setup
+Developed a contact manager with features for adding, editing, and deleting contacts, as well as searching and
+detailed contact viewing.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Stack:
 
-## Customize configuration
+Javascript, Vue, Vue Router, Css, Axios, Bootstrap, Vite. ⚙️🔧
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## To run this app:
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+1. Clone this repository 📋
+2. Install all necessary dependencies: `npm i` 🛠️
+3. Start the app: `npm run dev` ▶️
+4. Open a new terminal in the 'server' folder
+5. Install necessary dependencies for the server `npm i`
+6. Start the JSON server `npm start`
